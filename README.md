@@ -20,7 +20,8 @@ because i want to talk with you real-time communication.
     Python+Django+AI+DataAnalysis
     python manage.py
     localhost:8000
+    https://api.thespacevision.net
 
 # Deploy
-
-    using AWS Amplify
+    https://thespacevision.net
+    using PnrHost CPanel
